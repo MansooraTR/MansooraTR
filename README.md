@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MansooraTR
-- 👀 I’m interested in .NET rechnologies, React, Angular, Machine learning
+- 👀 I’m interested in .NET technologies, React, Angular, Machine learning
 - 🌱 I’m currently learning React, DSA
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me trmansoora33@gmail.com
